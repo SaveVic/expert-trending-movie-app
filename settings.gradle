@@ -1,0 +1,4 @@
+rootProject.name = "expert_sub1"
+include ':app'
+include ':core'
+include ':favorite'

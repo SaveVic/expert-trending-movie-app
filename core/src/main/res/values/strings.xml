@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image_description">Image</string>
+    <string name="sample_title">Sample of title text</string>
+    <string name="sample_subtitle">Sample of subtitle text</string>
+    <string name="sample_rating">10</string>
+    <string name="sample_type">Movie</string>
+    <string name="sample_date">Aug 20, 2021</string>
+</resources>
