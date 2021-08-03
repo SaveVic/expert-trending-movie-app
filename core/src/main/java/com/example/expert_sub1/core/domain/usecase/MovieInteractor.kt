@@ -2,7 +2,6 @@ package com.example.expert_sub1.core.domain.usecase
 
 import com.example.expert_sub1.core.domain.model.Movie
 import com.example.expert_sub1.core.domain.repository.IMovieRepository
-import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 
 class MovieInteractor @Inject constructor(private val movieRepository: IMovieRepository):

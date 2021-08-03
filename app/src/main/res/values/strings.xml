@@ -5,10 +5,14 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="title_activity_detail">Detail Movie</string>
     <string name="title_activity_favorite">Favorite Movie</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
 
     <string name="default_error">Something wrong</string>
     <string name="default_empty">No movies found</string>
     <string name="title_dynamicfeature">favorite</string>
+    <string name="fab_favorite">Favorite</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="sample_rating">Rating</string>
+    <string name="sample_type">Type</string>
+    <string name="msg_error">Something Wrong</string>
 </resources>

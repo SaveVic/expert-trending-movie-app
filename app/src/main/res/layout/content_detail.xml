@@ -30,7 +30,7 @@
                     android:textSize="16sp"
                     android:layout_marginEnd="10dp"
                     android:textColor="@color/semi_black"
-                    android:text="Rating"/>
+                    android:text="@string/sample_rating"/>
 
                 <TextView
                     android:id="@+id/detail_rating"
@@ -39,7 +39,7 @@
                     android:textSize="16sp"
                     android:layout_marginEnd="10dp"
                     android:textColor="@color/black"
-                    android:text="Rating"/>
+                    android:text="@string/sample_rating"/>
 
             </TableRow>
 
@@ -54,7 +54,7 @@
                     android:textSize="16sp"
                     android:layout_marginEnd="10dp"
                     android:textColor="@color/semi_black"
-                    android:text="Type"/>
+                    android:text="@string/sample_type"/>
 
                 <TextView
                     android:id="@+id/detail_type"
@@ -63,7 +63,7 @@
                     android:textSize="16sp"
                     android:layout_marginEnd="10dp"
                     android:textColor="@color/black"
-                    android:text="Type"/>
+                    android:text="@string/sample_type"/>
 
             </TableRow>
 

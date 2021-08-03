@@ -1,8 +1,6 @@
 package com.example.expert_sub1.core.di
 
 import com.example.expert_sub1.core.data.MovieRepository
-import com.example.expert_sub1.core.di.DatabaseModule
-import com.example.expert_sub1.core.di.NetworkModule
 import com.example.expert_sub1.core.domain.repository.IMovieRepository
 import dagger.Binds
 import dagger.Module

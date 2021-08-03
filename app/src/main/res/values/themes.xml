@@ -23,7 +23,7 @@
 
     <style name="Theme.TrendingMovieApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
-    <style name="Theme.Expert_sub1.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+<!--    <style name="Theme.Expert_sub1.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />-->
 
-    <style name="Theme.Expert_sub1.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+<!--    <style name="Theme.Expert_sub1.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />-->
 </resources>

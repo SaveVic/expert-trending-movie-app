@@ -3,7 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/app/src/main/res/layout/activity_detail.xml" value="0.18" />
+        <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/app/src/main/res/layout/activity_detail.xml" value="0.1" />
         <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/app/src/main/res/layout/activity_main.xml" value="0.1105072463768116" />
         <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/app/src/main/res/layout/activity_splashscreen.xml" value="0.1" />
         <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
@@ -12,6 +12,7 @@
         <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
         <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/app/src/main/res/layout/view_empty.xml" value="0.1" />
         <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/app/src/main/res/layout/view_error.xml" value="0.1" />
+        <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
         <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/core/src/main/res/layout/item_list_movie.xml" value="0.22" />
         <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/favorite/src/main/res/layout/activity_favorite.xml" value="0.14" />
         <entry key="..\:/Bangkit 2021/Dicoding/expert_sub1/favorite/src/main/res/layout/activity_favorite2.xml" value="0.18645833333333334" />
